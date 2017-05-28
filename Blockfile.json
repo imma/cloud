@@ -1,0 +1,7 @@
+{
+  "require": [
+    "awesome",
+    "digitalocean",
+    "packethost"
+  ]
+}
