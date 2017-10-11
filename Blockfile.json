@@ -1,8 +1,9 @@
 {
   "require": [
     "aws",
-    "heroku",
     "packet",
-    "digitalocean"
+    "digitalocean",
+    "heroku",
+    "eb"
   ]
 }
