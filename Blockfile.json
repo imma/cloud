@@ -5,7 +5,8 @@
     "packet",
     "digitalocean",
     "heroku",
-    "eb", 
+    "eb",
     "ecs"
-  ]
+  ],
+  "versions": {}
 }
