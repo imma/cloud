@@ -6,7 +6,8 @@
     "digitalocean",
     "heroku",
     "eb",
-    "ecs"
+    "ecs",
+    "aqq"
   ],
   "versions": {}
 }
