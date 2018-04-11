@@ -2,9 +2,6 @@
   "require": [
     "aws",
     "awesome",
-    "packet",
-    "digitalocean",
-    "heroku",
     "eb",
     "ecs",
     "aqq"
