@@ -1,7 +1,6 @@
 {
   "require": [
     "aws",
-    "awesome",
     "eb",
     "ecs",
     "aqq"
